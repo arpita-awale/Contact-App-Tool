@@ -41,4 +41,4 @@ if st.button("Fetch Contacts"):
         st.dataframe(df)
 
     else:
-        st.error("Failed to fetch data from API.")
+        st.error("Failed to fetch data from API.");
